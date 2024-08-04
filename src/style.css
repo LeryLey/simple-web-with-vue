@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  @apply bg-fixed bg-gradient-to-tr from-primary from-35% via-secondary to-accent w-full h-full;
+}
